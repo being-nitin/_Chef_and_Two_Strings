@@ -75,4 +75,5 @@ public class Main {
         System.out.println(max);
     }
 }
+// in this according to the problem if the index are different then min amd max will increase by 1.
 
