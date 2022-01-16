@@ -77,4 +77,5 @@ public class Main {
 }
 // in this according to the problem if the index are different then min amd max will increase by 1.
 // and if any of the index is equal to the question mark then the max will increase by one.
+// in the end print the values of man and max.
 
